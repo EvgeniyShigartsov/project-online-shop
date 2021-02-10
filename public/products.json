@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "name": "Набор отвёрток микро Dexter 32 шт",
+            "price": 30,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11624494FRA1_Media_Image&format=standard",
+            "article": 21001,
+            "description": "Тип: Slow and saw cut (SL)",
+            "isFavorite": false
+        },
+        {
+            "name": "Отвёртка Dexter Pro PZ0",
+            "price": 11,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11623591FRA1_Media_Image&format=standard",
+            "article": 21002,
+            "description": "Тип: Pozidriv (PZ)",
+            "isFavorite": false
+        },
+        {
+            "name": "Набор отвёрток для точных работ Dexter 6 шт",
+            "price": 19,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11624592FRA1_Media_Image&format=standard",
+            "article": 21003,
+            "description": "Тип: Slow and saw cut (SL)",
+            "isFavorite": false
+        },
+        {
+            "name": "Пинцеты для точных работ Dexter 7 шт",
+            "price": 22,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11772460FRA1_Media_Image&format=standard",
+            "article": 21004,
+            "description": "Тип работ: Фиксирование",
+            "isFavorite": false
+        },
+        {
+            "name": "Плоскогубцы MTX 180 мм",
+            "price": 13,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11881121FRA1_Media_Image&format=standard",
+            "article": 21005,
+            "description": "Тип работ: Фиксирование",
+            "isFavorite": false
+        },
+        {
+            "name": "Набор ключей Sparta 8-17 мм 5 шт",
+            "price": 20,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11857482FRA2_Media_Image&format=standard",
+            "article": 21006,
+            "description": "Тип работ: Фиксирование",
+            "isFavorite": false
+        },
+        {
+            "name": "Набор ключей Dexter 9 шт",
+            "price": 24,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11623836FRA1_Media_Image&format=standard",
+            "article": 21007,
+            "description": "Тип работ: Фиксирование",
+            "isFavorite": false
+        },
+        {
+            "name": "Молоток слюсарный DEXTER 0,1 кг",
+            "price": 16,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11871426FRA1_Media_Image&format=standard",
+            "article": 21008,
+            "description": "Тип: Слюсарный",
+            "isFavorite": false
+        },
+        {
+            "name": "Молоток столяра 0,45 кг",
+            "price": 19,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11842516FRA1_Media_Image&format=standard",
+            "article": 21009,
+            "description": "Тип: Столярный",
+            "isFavorite": false
+        },
+        {
+            "name": "Молоток - гвоздодер СИБРТЕХ 0,45 кг",
+            "price": 19,
+            "url": "https://www.leroymerlin.ua/m/img?href=/business/v2/images/9999PRO11916051FRA1_Media_Image&format=standard",
+            "article": 21010,
+            "description": "Тип: Столярный",
+            "isFavorite": false
+        }
+    ]
+}
