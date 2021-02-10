@@ -2,6 +2,7 @@
     "name": "hm-4_use-redux",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://evgeniyshigartsov.github.io/project-online-shop/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.9",
         "@testing-library/react": "^11.2.3",
