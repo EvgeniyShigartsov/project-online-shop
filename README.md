@@ -1,3 +1,5 @@
+**DEMO:** https://evgeniyshigartsov.github.io/project-online-shop/
+
 _How to launch a project on your pc:_
 
 1. Clone this repository by a link: https://github.com/EvgeniyShigartsov/project-online-shop.git
